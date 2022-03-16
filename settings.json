@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "JellyFish",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "files.autoSave": "afterDelay",
+    "gitlens.keymap": "alternate",
+    "git.enableSmartCommit": true,
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "explorer.confirmDelete": false,
+    "bracketPairColorizer.depreciation-notice": false,
+    "workbench.startupEditor": "none",
+    "[javascriptreact]": {
+    
+    }
+}
